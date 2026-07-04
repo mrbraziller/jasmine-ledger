@@ -1,0 +1,5 @@
+{
+  "account": "205863 Pepperstone Razor GBP",
+  "state_pull_cmd": "ssh -i /root/.ssh/jasmine_readonly ledger-reader@143.110.166.108 'curl -s --max-time 8 http://127.0.0.1:18096/api/state'",
+  "git_push": true
+}
